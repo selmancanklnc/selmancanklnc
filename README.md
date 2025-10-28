@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## ✨ Snapshot
@@ -42,7 +42,7 @@
 > • **Motto:** design → code → ship → repeat
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🏆 Highlights
@@ -56,17 +56,29 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
-## 🧰 Tech Stack
+## 🧰 Tech Radar
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" alt="Technology icons" />
+
+| Mobile & Immersive | Frontend | Backend & API | Cloud & DevOps | Data & Messaging |
+| --- | --- | --- | --- | --- |
+| [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev) [![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://dotnet.microsoft.com/apps/xamarin) [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) | <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="28" /></a> [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org) [![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge)](https://trpc.io) | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![n8n](https://img.shields.io/badge/n8n-F47A24?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API) [![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org) |
+
 </div>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+
+| State Management & UI | Testing & QA | Collaboration & Planning | Design Systems & Motion |
+| --- | --- | --- | --- |
+| [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)](https://mobx.js.org) [![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://bloclibrary.dev) [![Zustand](https://img.shields.io/badge/Zustand-3C3C3C?style=for-the-badge&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev) [![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/analytics) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com) | [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge)](https://linear.app) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so) | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html) [![LottieFiles](https://img.shields.io/badge/LottieFiles-1ABC9C?style=for-the-badge)](https://lottiefiles.com) |
+
+</div>
+
+<div align="center">
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🧭 Career Timeline
@@ -111,7 +123,7 @@
 </details>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🔁 Operating DNA
@@ -123,7 +135,7 @@
 - **Customer Impact:** KPI-driven decisions, user research, and A/B testing for experience optimization.
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🚀 Project Spotlights
@@ -149,7 +161,7 @@
 📌 Discover more in the [repository list](https://github.com/selmancanklnc?tab=repositories)!
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🗣️ Speaking & Content Topics
@@ -160,7 +172,7 @@
 - **Business-Driven Automation:** End-to-end digital transformation of logistics with n8n, AWS, and microservices.
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🧪 Automation & Observability
@@ -171,7 +183,30 @@
 - I optimize live data streams through WebSocket and real-time mechanisms.
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+</div>
+
+## 🎯 2026 Strategic Vision
+
+- [ ] Release a scalable animation/performance library for the Flutter & React Native ecosystem and open-source it.
+- [ ] Launch revenue-generating AR/XR MVPs for logistics and education verticals.
+- [ ] Embed progressive delivery, feature flag orchestration, and automated quality metrics into the mobile DevOps pipeline.
+- [ ] Establish thought leadership on cross-platform development by speaking at global conferences.
+- [ ] Build a knowledge platform with open-source contributions and technical content that reaches 5k+ monthly views.
+
+<div align="center">
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+</div>
+
+## 🎓 Education & Certifications
+
+- 🎓 **Kahramanmaraş Sütçü İmam University** · Electrical & Electronics Engineering (GPA 2.90/4.00)
+- 🟡 **AWS Certified Cloud Practitioner** (In Progress)
+- 📘 **React Native Advanced Patterns** · **Docker & Kubernetes Essentials** · **Agile & Scrum Training**
+- 🇹🇷 Turkish (Native) · 🇬🇧 English (Professional Working Proficiency)
+
+<div align="center">
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 ## 🤝 Let's Collaborate
@@ -186,13 +221,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" alt="GitHub contribution snake" width="640" />
+  <img src="./github-snake-dark.svg" alt="GitHub contribution snake" width="640" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
+  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
+

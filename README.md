@@ -96,7 +96,6 @@
   <a href="https://www.notion.so" target="_blank"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="42" /></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="42" /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" height="42" /></a>
-  <a href="https://lottiefiles.com" target="_blank"><img src="https://skillicons.dev/icons?i=lottiefiles" alt="LottieFiles" height="42" /></a>
 </div>
 
 <div align="center">

@@ -186,29 +186,6 @@
   <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
 </div>
 
-## 🎯 2026 Strategic Vision
-
-- [ ] Release a scalable animation/performance library for the Flutter & React Native ecosystem and open-source it.
-- [ ] Launch revenue-generating AR/XR MVPs for logistics and education verticals.
-- [ ] Embed progressive delivery, feature flag orchestration, and automated quality metrics into the mobile DevOps pipeline.
-- [ ] Establish thought leadership on cross-platform development by speaking at global conferences.
-- [ ] Build a knowledge platform with open-source contributions and technical content that reaches 5k+ monthly views.
-
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
-
-## 🎓 Education & Certifications
-
-- 🎓 **Kahramanmaraş Sütçü İmam University** · Electrical & Electronics Engineering (GPA 2.90/4.00)
-- 🟡 **AWS Certified Cloud Practitioner** (In Progress)
-- 📘 **React Native Advanced Patterns** · **Docker & Kubernetes Essentials** · **Agile & Scrum Training**
-- 🇹🇷 Turkish (Native) · 🇬🇧 English (Professional Working Proficiency)
-
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
-
 ## 🤝 Let's Collaborate
 
 <div align="center">
@@ -227,8 +204,3 @@
 <div align="center">
   <img src="./github-snake-dark.svg" alt="GitHub contribution snake" width="640" />
 </div>
-
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
-

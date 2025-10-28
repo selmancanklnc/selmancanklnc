@@ -40,6 +40,18 @@
 
 ---
 
+## 🏆 Başarı Özeti
+
+<div align="center">
+
+| 🚚 Lojistik Ekosistemi | 📈 Ürün Yayınları | ☁️ Bulut & Otomasyon | 🎮 Immersive Deneyimler |
+| --- | --- | --- | --- |
+| 4 kıtada kullanılan React Native tabanlı filo yönetimi çözümleri | 20+ App Store & Google Play lansmanı | AWS Cognito · API Gateway · Lambda · DynamoDB · n8n · GitHub Actions | Unity & ARCore ile öğrenme ve oyunlaştırma projeleri |
+
+</div>
+
+---
+
 ## 🧰 Teknoloji Radarım
 
 <div align="center">
@@ -97,6 +109,16 @@
 
 ---
 
+## 🔁 Çalışma DNA'sı
+
+- **Agile Delivery:** Sprint planlama, JIRA roadmap'leri ve DORA metrikleriyle sürekli iyileştirme.
+- **Clean Architecture:** SOLID prensipleri, domain-driven modüler yapı ve test edilebilirliği merkezde tutma.
+- **Observability:** CloudWatch, Firebase Analytics ve Sentry ile ölçülebilir kullanıcı deneyimleri.
+- **Automation First:** CI/CD, feature flag orkestrasyonu ve IaC yaklaşımıyla tekrarlanabilir pipeline'lar.
+- **Customer Impact:** KPI bazlı kararlar, kullanıcı araştırmaları ve A/B testleriyle deneyim optimizasyonu.
+
+---
+
 ## 🚀 Proje Spotları
 
 <div align="center">
@@ -121,12 +143,29 @@
 
 ---
 
+## 🗣️ Konuşma & İçerik Başlıkları
+
+- **Cross-Platform Ölçeklenebilirlik:** Flutter & React Native projelerinde performans optimizasyonu ve animasyon mimarileri.
+- **Mobil DevOps & Progressive Delivery:** Feature flag, canary release ve otomatik kalite ölçümleri.
+- **AR/XR ile Deneyim Tasarımı:** Unity & ARCore kullanarak öğrenme ve perakende senaryoları.
+- **Business-Driven Automation:** n8n, AWS ve mikroservislerle lojistik süreçlerini uçtan uca dijitalleştirme.
+
+---
+
 ## 🧪 Otomasyon & Gözlemlenebilirlik
 
 - GitHub Actions + Docker Compose ile otomatik build, test ve deploy pipeline'ları kurguluyorum.
 - AWS CloudWatch, Firebase Analytics ve Sentry entegrasyonlarıyla uçtan uca monitoring sağlıyorum.
 - n8n ile SMTP/XML tabanlı muhasebe entegrasyonlarını otomatikleştiriyor, Cron job'lar yönetiyorum.
 - WebSocket & real-time mekanizmalarla canlı veri akışını optimize ediyorum.
+
+---
+
+## 📈 Aktivite Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selmancanklnc&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 

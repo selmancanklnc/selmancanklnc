@@ -174,8 +174,8 @@
 
 </div>
 
-> 🚀 **keepBuilding()** → DESIGN · CODE · SHIP · REPEAT
+> 🚀 Keep building: **Design · Code · Ship · Repeat**
 
 <div align="center">
-  <img src="https://github.com/selmancanklnc/selmancanklnc/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/selmancanklnc/selmancanklnc/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>

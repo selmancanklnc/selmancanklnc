@@ -1,28 +1,18 @@
-<div style="text-align:center; width:100%;">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=1200&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" style="width:100%; height:auto;" />
-  <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
-  <a href="https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white" alt="CV EN" />
-  </a>
-  <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV%20(TR)-FF6F61?style=for-the-badge&logo=files&logoColor=white" alt="CV TR" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7" alt="Profile views" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=1200&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" style="width:100%; height:auto;" />
+
+**Mobile Application Developer @ ABC Logistics** · **Kayseri, Turkey**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7)
+[![CV (EN)](https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf)
+[![CV (TR)](https://img.shields.io/badge/CV%20(TR)-FF6F61?style=for-the-badge&logo=files&logoColor=white)](https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf)
+![Profile views](https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7)
 
 <img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## ✨ Snapshot
 
-<div align="center">
-
 | 🚀 5+ Years Experience | 📱 20+ Shipped Apps | ☁️ AWS & Docker Native | 🔄 CI/CD Automation |
 | --- | --- | --- | --- |
-
-</div>
 
 - I architect cross-platform (Flutter, React Native, React) products and Node.js-centric backends.
 - I craft high-performing web experiences with React, Next.js, and TypeScript.
@@ -41,19 +31,15 @@
 
 ## 🏆 Highlights
 
-<div align="center">
-
 | 🚚 Logistics Ecosystem | 📈 Product Launches | ☁️ Cloud & Automation | 🎮 Immersive Experiences |
 | --- | --- | --- | --- |
 | React Native fleet management solutions deployed across 4 continents | 20+ App Store, Google Play & Web launches | AWS Cognito · API Gateway · Lambda · DynamoDB · n8n · GitHub Actions | Unity & ARCore experiences plus React/Next.js data-rich dashboards |
-
-</div>
 
 <img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🧰 Tech Radar
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:flex-start;">
   <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="42" /></a>
   <a href="https://reactnative.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="42" /></a>
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="42" /></a>
@@ -100,13 +86,9 @@
 - **Automation First:** Repeatable pipelines with CI/CD, feature flag orchestration, and IaC practices.
 - **Customer Impact:** KPI-driven decisions, user research, and A/B testing for experience optimization.
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🚀 Project Spotlights
-
-<div align="center">
 
 [![CatchMe](https://github-readme-stats.vercel.app/api/pin/?username=selmancanklnc&repo=CatchMe&theme=radical)](https://github.com/selmancanklnc/CatchMe)
 [![LuckyTable](https://github-readme-stats.vercel.app/api/pin/?username=selmancanklnc&repo=LuckyTable&theme=radical)](https://github.com/selmancanklnc/LuckyTable)
@@ -114,8 +96,6 @@
 [![PraNomi](https://github-readme-stats.vercel.app/api/pin/?username=selmancanklnc&repo=PraNomi&theme=radical)](https://github.com/selmancanklnc/PraNomi)
 [![T-AR_Makeup](https://github-readme-stats.vercel.app/api/pin/?username=selmancanklnc&repo=T-AR_Makeup&theme=radical)](https://github.com/selmancanklnc/T-AR_Makeup)
 [![WhoIsThis](https://github-readme-stats.vercel.app/api/pin/?username=selmancanklnc&repo=WhoIsThis&theme=radical)](https://github.com/selmancanklnc/WhoIsThis)
-
-</div>
 
 - 🕹️ **CatchMe** — High-tempo 3D runner built with Unity & C#.
 - 🎯 **LuckyTable** — Real-time campaign & raffle experience with Flutter & Dart.
@@ -155,18 +135,11 @@
 ## 🤝 Let's Collaborate
 
 <div align="center">
-
 | 🚀 | Contact |
 | --- | --- |
 | ✉️ | klnc.selmancan@gmail.com |
 | 💼 | [linkedin.com/in/selmancan-kılınç](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7) |
 
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
-
-<div align="center">
-  <img src="./github-snake-dark.svg" alt="GitHub contribution snake" width="640" />
-</div>
+<img src="./github-snake-dark.svg" alt="GitHub contribution snake" width="640" />

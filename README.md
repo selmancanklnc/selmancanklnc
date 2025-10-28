@@ -1,5 +1,3 @@
-# Selmancan Kılınç
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=Cross-Platform+Mobile+%26+Full+Stack+Developer;Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
   <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
@@ -7,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white" alt="CV EN" />
+    <img src="https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white" alt="CV EN" />
   </a>
   <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV%20(TR)-FF6F61?style=for-the-badge&logo=files&logoColor=white" alt="CV TR" />

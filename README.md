@@ -165,7 +165,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=selmancanklnc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Selman Can GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmancanklnc&layout=compact&theme=radical&hide_border=true" alt="Selman Can top languages" />
 </div>
 
@@ -203,10 +203,4 @@
 | ✉️ | klnc.selmancan@gmail.com |
 | 💼 | [linkedin.com/in/selmancan-kılınç](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7) |
 
-</div>
-
-> 🚀 Keep building: **Design · Code · Ship · Repeat**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/selmancanklnc/selmancanklnc/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </div>

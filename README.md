@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
+<div style="text-align:center; width:100%;">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=1200&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" style="width:100%; height:auto;" />
   <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
   <a href="https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7" alt="Profile views" />
 </div>
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## ✨ Snapshot
 
@@ -39,9 +37,7 @@
 > • **Currently:** Modernizing enterprise logistics experiences with mobile & web apps, automating releases with n8n + GitHub Actions, scaling microservice architectures via AWS Cognito + API Gateway + Lambda.  
 > • **Motto:** design → code → ship → repeat
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🏆 Highlights
 
@@ -53,9 +49,7 @@
 
 </div>
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🧰 Tech Radar
 
@@ -96,11 +90,7 @@
   <a href="https://www.notion.so" target="_blank"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="42" /></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="42" /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" height="42" /></a>
-</div>
-
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🔁 Operating DNA
 

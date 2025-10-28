@@ -62,7 +62,7 @@
 <div align="center" style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
   <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="42" /></a>
   <a href="https://reactnative.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="42" /></a>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="42" /></a>
+  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"><img src="https://skillicons.dev/icons?i=xamarin" alt="Xamarin" height="42" /></a>
   <a href="https://unity.com" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="42" /></a>
   <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="42" /></a>
   <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="42" /></a>
@@ -76,7 +76,7 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="42" /></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="42" /></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" height="42" /></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://skillicons.dev/icons?i=n8n" alt="n8n" height="42" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="42" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="42" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="42" /></a>
@@ -85,7 +85,7 @@
   <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="42" /></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="42" /></a>
   <a href="https://mobx.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=mobx" alt="MobX" height="42" /></a>
-  <a href="https://bloclibrary.dev" target="_blank"><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo.png" alt="Bloc" height="42" /></a>
+  <a href="https://bloclibrary.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bloc" alt="Bloc" height="42" /></a>
   <a href="https://zustand-demo.pmnd.rs" target="_blank"><img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="42" /></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="42" /></a>
   <a href="https://playwright.dev" target="_blank"><img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" height="42" /></a>

@@ -1,20 +1,16 @@
 <div align="center">
-  <div style="display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:18px; padding:18px 26px; margin-bottom:12px; max-width:720px; border:1px solid rgba(49,225,247,0.5); border-radius:18px; background:linear-gradient(135deg, rgba(10,25,47,0.92), rgba(3,7,18,0.92)); box-shadow:0 18px 45px rgba(8, 24, 68, 0.35);">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nestjs,unity,nodejs,aws,ts" alt="Primary technology logos" height="48" />
-    <div style="display:flex; flex-direction:column; gap:8px; text-align:left; color:#e2e8f0; font-family:'Inter', 'Segoe UI', sans-serif;">
-      <div style="font-size:22px; font-weight:600; letter-spacing:0.4px;">Cross-Platform Mobile & Full Stack Engineer</div>
-      <div style="font-size:15px; line-height:1.65;">
-        <code style="background:rgba(15,118,110,0.2); color:#5eead4; padding:4px 8px; border-radius:8px; margin-right:6px;">Flutter</code>
-        <code style="background:rgba(37,99,235,0.18); color:#93c5fd; padding:4px 8px; border-radius:8px; margin-right:6px;">React Native</code>
-        <code style="background:rgba(94,234,212,0.12); color:#fbbf24; padding:4px 8px; border-radius:8px; margin-right:6px;">Unity</code>
-        <code style="background:rgba(34,197,94,0.18); color:#86efac; padding:4px 8px; border-radius:8px; margin-right:6px;">Node.js</code>
-        <code style="background:rgba(59,130,246,0.14); color:#bae6fd; padding:4px 8px; border-radius:8px;">TypeScript</code>
-      </div>
-      <div style="font-size:14px; line-height:1.6; color:#cbd5f5;">
-        Designing event-driven architectures, automating release pipelines, and shipping production-grade mobile experiences with measurable impact.
-      </div>
-    </div>
-  </div>
+  <p>
+    <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="42" /></a>
+    <a href="https://reactnative.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="42" /></a>
+    <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="42" /></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="42" /></a>
+    <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="42" /></a>
+    <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="42" /></a>
+    <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="42" /></a>
+    <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42" /></a>
+    <a href="https://unity.com" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="42" /></a>
+  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=Cross-Platform+Mobile+%26+Full+Stack+Developer;Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
   <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
   <a href="https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

@@ -72,28 +72,27 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="42" /></a>
   <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="42" /></a>
   <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="42" /></a>
-  <a href="https://trpc.io" target="_blank"><img src="https://badgen.net/badge/icon/tRPC?icon=trpc&label=&color=398CCB&labelColor=FFFFFF" alt="tRPC" height="42" /></a>
+  <a href="https://trpc.io" target="_blank"><img src="https://trpc.io/img/logo.svg" alt="tRPC" height="42" /></a>
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="42" /></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="42" /></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://badgen.net/badge/icon/n8n?icon=n8n&label=&color=1A1A1A&labelColor=FFFFFF" alt="n8n" height="42" /></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://n8n.io/guidelines/logo-white.svg" alt="n8n" height="42" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="42" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="42" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="42" /></a>
   <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" height="42" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/API/WebSockets_API" target="_blank"><img src="https://badgen.net/badge/icon/WebSocket?icon=websocket&label=&color=000000&labelColor=FFFFFF" alt="WebSocket" height="42" /></a>
   <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="42" /></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="42" /></a>
   <a href="https://mobx.js.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" alt="MobX" height="42" /></a>
-  <a href="https://bloclibrary.dev" target="_blank"><img src="https://badgen.net/badge/icon/Bloc?icon=flutter&label=&color=13569f&labelColor=FFFFFF" alt="Bloc" height="42" /></a>
-  <a href="https://zustand-demo.pmnd.rs" target="_blank"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/public/logo.png" alt="Zustand" height="42" /></a>
+  <a href="https://bloclibrary.dev" target="_blank"><img src="https://bloclibrary.dev/_astro/dark-bloc-logo.D-BLnUA2.svg" alt="Bloc" height="42" /></a>
+  <a href="https://zustand-demo.pmnd.rs" target="_blank"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" height="42" /></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="42" /></a>
   <a href="https://playwright.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="42" /></a>
   <a href="https://firebase.google.com/products/analytics" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Analytics" height="42" /></a>
   <a href="https://www.postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="42" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" height="42" /></a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="Confluence" height="42" /></a>
-  <a href="https://linear.app" target="_blank"><img src="https://badgen.net/badge/icon/Linear?icon=linear&label=&color=5E6AD2&labelColor=FFFFFF" alt="Linear" height="42" /></a>
+  <a href="https://linear.app" target="_blank"><img src="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20fill%3D%22none%22%20width%3D%22200%22%20height%3D%22200%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cpath%20fill%3D%22%23222326%22%20d%3D%22M1.22541%2061.5228c-.2225-.9485.90748-1.5459%201.59638-.857L39.3342%2097.1782c.6889.6889.0915%201.8189-.857%201.5964C20.0515%2094.4522%205.54779%2079.9485%201.22541%2061.5228ZM.00189135%2046.8891c-.01764375.2833.08887215.5599.28957165.7606L52.3503%2099.7085c.2007.2007.4773.3075.7606.2896%202.3692-.1476%204.6938-.46%206.9624-.9259.7645-.157%201.0301-1.0963.4782-1.6481L2.57595%2039.4485c-.55186-.5519-1.49117-.2863-1.648174.4782-.465915%202.2686-.77832%204.5932-.92588465%206.9624ZM4.21093%2029.7054c-.16649.3738-.08169.8106.20765%201.1l64.77602%2064.776c.2894.2894.7262.3742%201.1.2077%201.7861-.7956%203.5171-1.6927%205.1855-2.684.5521-.328.6373-1.0867.1832-1.5407L8.43566%2024.3367c-.45409-.4541-1.21271-.3689-1.54074.1832-.99132%201.6684-1.88843%203.3994-2.68399%205.1855ZM12.6587%2018.074c-.3701-.3701-.393-.9637-.0443-1.3541C21.7795%206.45931%2035.1114%200%2049.9519%200%2077.5927%200%20100%2022.4073%20100%2050.0481c0%2014.8405-6.4593%2028.1724-16.7199%2037.3375-.3903.3487-.984.3258-1.3542-.0443L12.6587%2018.074Z%22/%3E%3C/svg%3E" alt="Linear" height="42" /></a>
   <a href="https://www.notion.so" target="_blank"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="42" /></a>
   <a href="https://www.figma.com" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="42" /></a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" height="42" /></a>

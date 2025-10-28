@@ -84,7 +84,7 @@
   <a href="https://kafka.apache.org" target="_blank"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="42" /></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="42" /></a>
   <a href="https://mobx.js.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" alt="MobX" height="42" /></a>
-  <a href="https://bloclibrary.dev" target="_blank"><img src="https://bloclibrary.dev/_astro/dark-bloc-logo.D-BLnUA2.svg" alt="Bloc" height="42" /></a>
+  <a href="https://bloclibrary.dev" target="_blank"><img src="https://bloclibrary.dev/_astro/bloc.DJLDGT9c_A0IIg.svg" alt="Bloc" height="42" /></a>
   <a href="https://zustand-demo.pmnd.rs" target="_blank"><img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" height="42" /></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="42" /></a>
   <a href="https://playwright.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="42" /></a>

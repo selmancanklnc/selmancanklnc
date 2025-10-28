@@ -165,7 +165,7 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=selmancanklnc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Selman Can GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmancanklnc&layout=compact&theme=radical&hide_border=true" alt="Selman Can top languages" />
 </div>
 

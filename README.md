@@ -1,16 +1,45 @@
 <div align="center">
-  <p>
-    <a href="https://flutter.dev" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="42" /></a>
-    <a href="https://reactnative.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="42" /></a>
-    <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="42" /></a>
-    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="42" /></a>
-    <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="42" /></a>
-    <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="42" /></a>
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="42" /></a>
-    <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42" /></a>
-    <a href="https://unity.com" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="42" /></a>
-  </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=Cross-Platform+Mobile+%26+Full+Stack+Developer;Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:14px; margin-bottom:16px;">
+    <a href="https://flutter.dev" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="40" /></a>
+    <a href="https://reactnative.dev" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="40" /></a>
+    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="40" /></a>
+    <a href="https://unity.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="40" /></a>
+    <a href="https://react.dev" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="40" /></a>
+    <a href="https://nextjs.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" /></a>
+    <a href="https://www.typescriptlang.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" /></a>
+    <a href="https://chakra-ui.com" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" alt="Chakra UI" height="40" /></a>
+    <a href="https://nodejs.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /></a>
+    <a href="https://expressjs.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" /></a>
+    <a href="https://dotnet.microsoft.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="40" /></a>
+    <a href="https://graphql.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="40" /></a>
+    <a href="https://trpc.io" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/t3-oss/trpc/main/www/static/images/tRPC-logo.svg" alt="tRPC" height="40" /></a>
+    <a href="https://aws.amazon.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40" /></a>
+    <a href="https://www.docker.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" /></a>
+    <a href="https://github.com/features/actions" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" height="40" /></a>
+    <a href="https://n8n.io" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" height="40" /></a>
+    <a href="https://www.terraform.io" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40" /></a>
+    <a href="https://www.mongodb.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" /></a>
+    <a href="https://www.postgresql.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" /></a>
+    <a href="https://www.microsoft.com/sql-server" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=mssql" alt="MSSQL" height="40" /></a>
+    <a href="https://developer.mozilla.org/docs/Web/API/WebSockets_API" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/websocket.svg" alt="WebSocket" height="40" /></a>
+    <a href="https://kafka.apache.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="40" /></a>
+    <a href="https://redux.js.org" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="40" /></a>
+    <a href="https://mobx.js.org" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" alt="MobX" height="40" /></a>
+    <a href="https://bloclibrary.dev" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_secondary.png" alt="Bloc" height="40" /></a>
+    <a href="https://zustand-demo.pmnd.rs" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/next-parallel/public/zustand.png" alt="Zustand" height="40" /></a>
+    <a href="https://jestjs.io" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="40" /></a>
+    <a href="https://playwright.dev" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" height="40" /></a>
+    <a href="https://firebase.google.com/products/analytics" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Analytics" height="40" /></a>
+    <a href="https://www.postman.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" /></a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" height="40" /></a>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" alt="Confluence" height="40" /></a>
+    <a href="https://linear.app" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linear.svg" alt="Linear" height="40" /></a>
+    <a href="https://www.notion.so" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="40" /></a>
+    <a href="https://www.figma.com" target="_blank" style="display:inline-block;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /></a>
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobexd.svg" alt="Adobe XD" height="40" /></a>
+    <a href="https://lottiefiles.com" target="_blank" style="display:inline-block;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lottiefiles.svg" alt="LottieFiles" height="40" /></a>
+  </div>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
   <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
   <a href="https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -72,17 +101,96 @@
 
 <div align="center">
 
-| Mobile & Immersive | Frontend | Backend & API | Cloud & DevOps | Data & Messaging |
-| --- | --- | --- | --- | --- |
-| [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev) [![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://dotnet.microsoft.com/apps/xamarin) [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) | <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="28" /></a> [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)](https://chakra-ui.com) | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org) [![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge)](https://trpc.io) | [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![n8n](https://img.shields.io/badge/n8n-F47A24?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://developer.mozilla.org/docs/Web/API/WebSockets_API) [![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org) |
+<table>
+  <thead>
+    <tr>
+      <th>Mobile & Immersive</th>
+      <th>Frontend</th>
+      <th>Backend & API</th>
+      <th>Cloud & DevOps</th>
+      <th>Data & Messaging</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://flutter.dev" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="36" /></a>
+        <a href="https://reactnative.dev" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=react" alt="React Native" height="36" /></a>
+        <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" height="36" /></a>
+        <a href="https://unity.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://react.dev" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=react" alt="React" height="36" /></a>
+        <a href="https://nextjs.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="36" /></a>
+        <a href="https://www.typescriptlang.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="36" /></a>
+        <a href="https://chakra-ui.com" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" alt="Chakra UI" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://nodejs.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="36" /></a>
+        <a href="https://expressjs.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="36" /></a>
+        <a href="https://dotnet.microsoft.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" height="36" /></a>
+        <a href="https://graphql.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="36" /></a>
+        <a href="https://trpc.io" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/t3-oss/trpc/main/www/static/images/tRPC-logo.svg" alt="tRPC" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://aws.amazon.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="36" /></a>
+        <a href="https://www.docker.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="36" /></a>
+        <a href="https://github.com/features/actions" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" alt="GitHub Actions" height="36" /></a>
+        <a href="https://n8n.io" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" alt="n8n" height="36" /></a>
+        <a href="https://www.terraform.io" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://www.mongodb.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="36" /></a>
+        <a href="https://www.postgresql.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="36" /></a>
+        <a href="https://www.microsoft.com/sql-server" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=mssql" alt="MSSQL" height="36" /></a>
+        <a href="https://developer.mozilla.org/docs/Web/API/WebSockets_API" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/websocket.svg" alt="WebSocket" height="36" /></a>
+        <a href="https://kafka.apache.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" height="36" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
 <div align="center">
 
-| State Management & UI | Testing & QA | Collaboration & Planning | Design Systems & Motion |
-| --- | --- | --- | --- |
-| [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org) [![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)](https://mobx.js.org) [![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://bloclibrary.dev) [![Zustand](https://img.shields.io/badge/Zustand-3C3C3C?style=for-the-badge&logo=react&logoColor=white)](https://zustand-demo.pmnd.rs) | [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev) [![Firebase Analytics](https://img.shields.io/badge/Firebase%20Analytics-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/products/analytics) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com) | [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) [![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) [![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge)](https://linear.app) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so) | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html) [![LottieFiles](https://img.shields.io/badge/LottieFiles-1ABC9C?style=for-the-badge)](https://lottiefiles.com) |
+<table>
+  <thead>
+    <tr>
+      <th>State Management & UI</th>
+      <th>Testing & QA</th>
+      <th>Collaboration & Planning</th>
+      <th>Design Systems & Motion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://redux.js.org" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="36" /></a>
+        <a href="https://mobx.js.org" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mobx.svg" alt="MobX" height="36" /></a>
+        <a href="https://bloclibrary.dev" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo_secondary.png" alt="Bloc" height="36" /></a>
+        <a href="https://zustand-demo.pmnd.rs" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/next-parallel/public/zustand.png" alt="Zustand" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://jestjs.io" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" height="36" /></a>
+        <a href="https://playwright.dev" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" height="36" /></a>
+        <a href="https://firebase.google.com/products/analytics" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase Analytics" height="36" /></a>
+        <a href="https://www.postman.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://www.atlassian.com/software/jira" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=jira" alt="Jira" height="36" /></a>
+        <a href="https://www.atlassian.com/software/confluence" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/confluence.svg" alt="Confluence" height="36" /></a>
+        <a href="https://linear.app" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linear.svg" alt="Linear" height="36" /></a>
+        <a href="https://www.notion.so" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="36" /></a>
+      </td>
+      <td>
+        <a href="https://www.figma.com" target="_blank" style="margin:0 6px;"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="36" /></a>
+        <a href="https://www.adobe.com/products/xd.html" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobexd.svg" alt="Adobe XD" height="36" /></a>
+        <a href="https://lottiefiles.com" target="_blank" style="margin:0 6px;"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lottiefiles.svg" alt="LottieFiles" height="36" /></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 

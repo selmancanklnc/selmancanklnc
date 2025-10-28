@@ -168,17 +168,9 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selmancanklnc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Selman Can GitHub stats" />
-  <!-- <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" /> -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmancanklnc&layout=compact&theme=radical&hide_border=true" alt="Selman Can top languages" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Purple themed developer animation" width="640" />
 </div>
-
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selmancanklnc&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
-</div> -->
 
 ---
 

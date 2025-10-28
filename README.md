@@ -161,14 +161,6 @@
 
 ---
 
-## 📈 Aktivite Grafiği
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selmancanklnc&theme=radical&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
----
-
 ## 📊 GitHub Analitiği
 
 <div align="center">

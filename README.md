@@ -1,4 +1,4 @@
-# 💫 Selman Can Kılınç
+# 💫 Selmancan Kılınç
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=620&lines=Cross-Platform+Mobile+%26+Full+Stack+Developer;Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" />
@@ -12,7 +12,7 @@
   <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV%20(T%C3%BCrk%C3%A7e)-FF6F61?style=for-the-badge&logo=files&logoColor=white" alt="CV TR" />
   </a>
-  <img src="https://visitcount.itsvg.in/api?id=selmancanklnc&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7" alt="Profile views" />
 </div>
 
 ---
@@ -31,20 +31,12 @@
 - Lojistik, e-ticaret, fintech ve AR/oyun alanlarında üretim ortamına çıkmış projelerim bulunuyor.
 - Türkçe ve İngilizce ekiplerde Product, Design ve QA ile yakın çalışmaya alışkınım.
 
-```typescript
-type CoreFocus = "Mobile" | "Backend" | "Cloud" | "Automation";
-
-const selman: DeveloperProfile<CoreFocus> = {
-  role: "Cross-Platform Mobile & Full Stack Developer",
-  stack: ["Flutter", "React Native", "Unity", "Node.js", "AWS", "Docker"],
-  currently: {
-    building: "Kurumsal lojistik ekosistemini uçtan uca modernize eden mobil deneyimler",
-    automating: "n8n, GitHub Actions ve CI/CD pipeline'larıyla yayın süreçleri",
-    scaling: "AWS Cognito + API Gateway + Lambda kombinasyonlarıyla microservice altyapıları"
-  },
-  mantra: "design → code → ship → repeat"
-};
-```
+> 🧠 **Odak Alanları**
+>
+> • **Rol:** Cross-Platform Mobile & Full Stack Developer  
+> • **Stack:** Flutter · React Native · Unity · Node.js · AWS · Docker  
+> • **Şu Sıralar:** Kurumsal lojistik deneyimlerini modernize eden mobil uygulamalar geliştiriyor, n8n + GitHub Actions ile release akışlarını otomatikleştiriyor, AWS Cognito + API Gateway + Lambda ile mikro servis altyapıları ölçeklendiriyorum.  
+> • **Motto:** design → code → ship → repeat
 
 ---
 
@@ -142,22 +134,23 @@ const selman: DeveloperProfile<CoreFocus> = {
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=selmancanklnc&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Selman Can GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=selmancanklnc&theme=radical&hide_border=true" alt="Selman Can streak" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selmancanklnc&layout=compact&theme=radical&hide_border=true" alt="Selman Can top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=selmancanklnc&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=selmancanklnc&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🎯 2025 Hedef Haritası
+## 🎯 2026 Stratejik Vizyon
 
-- [ ] Flutter & React Native tarafında ileri seviye animasyon/performans altyapıları yayınlamak.
-- [ ] AR ve XR destekli öğrenme deneyimini genişleten yeni prototipler oluşturmak.
-- [ ] Mobil CI/CD süreçlerinde feature flag + Canary release mimarilerini denemek.
-- [ ] Topluluk etkinliklerinde konuşmalar ve workshop'lar düzenlemek.
+- [ ] Flutter & React Native ekosistemi için ölçeklenebilir animasyon/performans kütüphanesi yayınlayıp topluluğa açmak.
+- [ ] Lojistik ve eğitim dikeylerine yönelik üretim seviyesinde AR/XR ürünleri konumlandırarak gelir üreten MVP'ler çıkarmak.
+- [ ] Mobil DevOps sürecine progressive delivery, feature flag orkestrasyonu ve otomatik kalite metrikleri entegre etmek.
+- [ ] Global konferanslarda konuşmalar yaparak çapraz platform geliştirme üzerine thought leadership oluşturmak.
+- [ ] Açık kaynak katkıları ve teknik içerikler ile aylık 5k+ görüntülenmeye ulaşan bilgi paylaşım ağı kurmak.
 
 ---
 
@@ -165,7 +158,7 @@ const selman: DeveloperProfile<CoreFocus> = {
 
 - 🎓 **Kahramanmaraş Sütçü İmam Üniversitesi** · Elektrik-Elektronik Mühendisliği (GPA 2.90/4.00)
 - 🟡 **AWS Certified Cloud Practitioner** (Devam ediyor)
-- 📘 **React Native Advanced Patterns** · **Docker & Kubernetes Essentials** · **Agile & Scrum Master Training**
+- 📘 **React Native Advanced Patterns** · **Docker & Kubernetes Essentials** · **Agile & Scrum Training**
 - 🇹🇷 Türkçe (Ana Dil) · 🇬🇧 İngilizce (Profesyonel Çalışma Yetkinliği)
 
 ---
@@ -178,19 +171,10 @@ const selman: DeveloperProfile<CoreFocus> = {
 | --- | --- |
 | ✉️ | klnc.selmancan@gmail.com |
 | 💼 | [linkedin.com/in/selmancan-kılınç](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7) |
-| 🐦 | [twitter.com/selmancanklnc](https://twitter.com/selmancanklnc) |
-| 📦 | Açık kaynak projelere PR/review desteği vermeyi seviyorum |
 
 </div>
 
-```dart
-void keepBuilding() {
-  const mantra = ["design", "code", "ship", "repeat"];
-  for (final step in mantra) {
-    debugPrint('🚀 ${step.toUpperCase()}');
-  }
-}
-```
+> 🚀 **keepBuilding()** → DESIGN · CODE · SHIP · REPEAT
 
 <div align="center">
   <img src="https://github.com/selmancanklnc/selmancanklnc/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />

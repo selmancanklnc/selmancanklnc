@@ -76,7 +76,7 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="42" /></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42" /></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="42" /></a>
-  <a href="https://n8n.io" target="_blank"><img src="https://n8n.io/guidelines/logo-white.svg" alt="n8n" height="42" /></a>
+  <a href="https://n8n.io" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/light/n8n-color.png" alt="n8n" height="42" /></a>
   <a href="https://www.terraform.io" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="42" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="42" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="42" /></a>

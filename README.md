@@ -1,11 +1,14 @@
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=1200&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" style="width:100%; height:auto;" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=31E1F7&center=true&vCenter=true&width=1200&lines=%20Cross-Platform+Mobile+%26+Full+Stack+Developer;%20Flutter+%7C+React+Native+%7C+Unity+%7C+Node.js;%20Cloud-Native+%26+Automation+Enthusiast" alt="Typing intro" style="width:100%; height:auto;" />
 
-**Mobile Application Developer @ ABC Logistics** · **Kayseri, Turkey**
+  <p><strong>Mobile Application Developer @ ABC Logistics</strong> · <strong>Kayseri, Turkey</strong></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7)
-[![CV (EN)](https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf)
-[![CV (TR)](https://img.shields.io/badge/CV%20(TR)-FF6F61?style=for-the-badge&logo=files&logoColor=white)](https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf)
-![Profile views](https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7)
+  <a href="https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:klnc.selmancan@gmail.com"><img src="https://img.shields.io/badge/Email-klnc.selmancan%40gmail.com-31E1F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV%20(EN)-111111?style=for-the-badge&logo=readme&logoColor=white" alt="CV EN" /></a>
+  <a href="https://github.com/selmancanklnc/selmancanklnc/blob/main/Selmancan%20K%C4%B1l%C4%B1n%C3%A7%20-%20TR%20-%20CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV%20(TR)-FF6F61?style=for-the-badge&logo=files&logoColor=white" alt="CV TR" /></a>
+  <img src="https://komarev.com/ghpvc/?username=selmancanklnc&style=for-the-badge&color=31E1F7" alt="Profile views" />
+</div>
 
 <img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
@@ -106,9 +109,7 @@
 
 📌 Discover more in the [repository list](https://github.com/selmancanklnc?tab=repositories)!
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🗣️ Speaking & Content Topics
 
@@ -117,9 +118,7 @@
 - **Designing AR/XR Experiences:** Unity & ARCore for learning and retail scenarios.
 - **Business-Driven Automation:** End-to-end digital transformation of logistics with n8n, AWS, and microservices.
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
+<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
 
 ## 🧪 Automation & Observability
 
@@ -128,18 +127,3 @@
 - I automate accounting integrations through n8n with SMTP/XML workflows and Cron jobs.
 - I optimize live data streams through WebSocket and real-time mechanisms.
 
-<div align="center">
-  <img src="./horizontal-divider-gradient.gif" alt="Section divider" width="100%" />
-</div>
-
-## 🤝 Let's Collaborate
-
-<div align="center">
-| 🚀 | Contact |
-| --- | --- |
-| ✉️ | klnc.selmancan@gmail.com |
-| 💼 | [linkedin.com/in/selmancan-kılınç](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7) |
-
-<img src="./horizontal-divider-gradient.gif" alt="Section divider" style="width:100%; display:block;" />
-
-<img src="./github-snake-dark.svg" alt="GitHub contribution snake" width="640" />

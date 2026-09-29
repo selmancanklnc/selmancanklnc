@@ -38,12 +38,6 @@ I build cross-platform mobile apps with Flutter and React Native, and the Node.j
 | **State & testing** | Redux · Zustand · MobX · Bloc · Jest · Playwright |
 | **Observability** | Sentry · Firebase Analytics · CloudWatch |
 
-## How I work
-
-- Clean architecture and testable modules before clever code.
-- The release path is automated: CI/CD, feature flags and infrastructure as code.
-- Production is measured, and the numbers decide the next iteration.
-
 Happy to talk about cross-platform performance, mobile DevOps, AR experiences, or automating logistics workflows.
 
 <div align="center">

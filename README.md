@@ -45,3 +45,7 @@ I build cross-platform mobile apps with Flutter and React Native, and the Node.j
 - Production is measured, and the numbers decide the next iteration.
 
 Happy to talk about cross-platform performance, mobile DevOps, AR experiences, or automating logistics workflows.
+
+<div align="center">
+  <img src="./github-snake-dark.svg" alt="GitHub contribution snake" />
+</div>

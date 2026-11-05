@@ -2,7 +2,7 @@
 
 **Mobile & Full-Stack Engineer** at ABC Logistics · Kayseri, Turkey
 
-I build cross-platform mobile apps with Flutter and React Native, and the Node.js and AWS backends behind them. Over 5+ years I have shipped 20+ apps to the App Store, Google Play and the web, across logistics, e-commerce, fintech and AR.
+I build cross-platform mobile apps with Flutter and React Native, and the Node.js and AWS backends behind them. In 5+ years I have shipped 20+ apps to the App Store, Google Play and the web, across logistics, e-commerce, fintech and AR.
 
 [LinkedIn](https://www.linkedin.com/in/selmancan-k%C4%B1l%C4%B1n%C3%A7) · [Email](mailto:klnc.selmancan@gmail.com) · [CV (EN)](./Selmancan%20Kilinc%20-%20EN%20-%20CV.pdf)
 
